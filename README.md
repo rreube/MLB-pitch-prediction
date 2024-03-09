@@ -1,4 +1,4 @@
-# pitch_prediction
-Predict the next pitch in a MLB at bat
+# Predicting the Next MLB Pitch
+Predict the next pitch type thrown in a baseball at-bat using 2011 MLB pitch data.
 
-NOTE: CSV dataset has been reduced to fit within GitHub limitations.
+NOTE: The CSV dataset has been reduced to fit within GitHub storage limitations.
